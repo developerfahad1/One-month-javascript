@@ -150,11 +150,63 @@
 // console.log('5 != 2', a != b);
 
 
-let age = 22;
+// let age = 22;
 
-console.log(age > 18);
+// console.log(age > 18);
 
 
-let a = 10;
-let b = '10';
-console.log(a === b);
+// let a = 10;
+// let b = '10';
+// console.log(a === b);
+
+
+// Logical Operator
+
+// logical AND Operator && 
+
+// let age = 33;
+
+
+// if(age > 18 && age < 100){
+//     console.log('eligibal for voting');
+    
+// }else{
+//     console.log('not eligible for voting');
+    
+// }
+
+// logical OR Operator 
+
+// let age = 16;
+
+// if(age < 18 || age > 60){
+//     console.log('you get a discount');
+    
+// }
+
+
+// let isLoggedIn = false;
+
+// if(!isLoggedIn){
+//     console.log('pleas log in first');
+    
+// }
+
+// let username = 'admin';
+// let pass = 1234;
+
+// if(username === 'admin' && pass === 1234){
+//     console.log('login successfuly');
+    
+// }
+
+// let age = 19;
+// let permition = false;
+
+// if(age >= 18 || permition ){
+//     console.log('login form');
+    
+// }else{
+//     console.log('not login');
+    
+// }
